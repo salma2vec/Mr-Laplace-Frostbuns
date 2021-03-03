@@ -1,2 +1,3 @@
-# Mr-Laplace-Frostbuns
-Pure CSS fluff
+# Mr-Laplace-Frostbuns :penguin:
+
+A penguin made using CSS.
